@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "java -javaagent:SkipVerify-jar-with-dependencies.jar -jar godzilla.jar",0
